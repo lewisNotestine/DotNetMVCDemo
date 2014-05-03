@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPSSWebApplicationDemo", "SPSSWebApplicationDemo\SPSSWebApplicationDemo.csproj", "{9CA33839-C799-4B59-85BC-AC6B1B6085CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPSSWebApplicationDemo.Tests", "SPSSWebApplicationDemo.Tests\SPSSWebApplicationDemo.Tests.csproj", "{0D499557-2E84-4624-9608-1684B4312CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA33839-C799-4B59-85BC-AC6B1B6085CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA33839-C799-4B59-85BC-AC6B1B6085CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA33839-C799-4B59-85BC-AC6B1B6085CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA33839-C799-4B59-85BC-AC6B1B6085CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D499557-2E84-4624-9608-1684B4312CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D499557-2E84-4624-9608-1684B4312CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D499557-2E84-4624-9608-1684B4312CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D499557-2E84-4624-9608-1684B4312CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
