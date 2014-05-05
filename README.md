@@ -1,4 +1,4 @@
-spssApiDemo
+DotNetMVCDemo
 ===========
 
-a basic .NET MVC web application that uses SPSS' backend API to process data from an SPSS dataset and give results.
+a basic .NET MVC web application. Stripped down so that we can rebuild from zero instead of from the MVC 4 template.
